@@ -18,4 +18,4 @@ apt update
 apt install -y nodejs mongodb nginx
 npm config set user 0
 npm config set unsafe-perm true
-npm i -g npm eslint express mongodb react redux react-redux fabric
+npm i -g npm canvas supervisor
